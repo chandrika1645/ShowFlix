@@ -48,7 +48,7 @@ This is a basic proof of concept, real-world movie streaming solutions require *
 Watch it in action!  
 
 <a href="https://drive.google.com/file/d/1HKz-R_m1I9Ddrjaf7wuvdCxriyDw1bea/view?usp=sharing">
-    <img src="https://github.com/chandrika1645/BlogsPost/ShowFlix/main/public/media/login-page.png" width="700">
+    <img src="https://github.com/chandrika1645/ShowFlix/blob/main/public/media/demo.gif" width="700">
 </a>
 
 
