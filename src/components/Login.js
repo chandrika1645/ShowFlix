@@ -5,7 +5,7 @@ const Login = (props) => {
     <Container>
       <Content>
         <CTA>
-        <CTALogoTwo src="/images/cta-logo-two.png" alt="" />
+          <CTALogoTwo src="/images/cta-logo-two.png" alt="" />
           <Description>
             Get Premier Access to Raya and the Last Dragon for an additional fee
             with a Disney+ subscription. As of 03/26/21, the price of Disney+

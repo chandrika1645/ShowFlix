@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import { useParams } from "react-router-dom";
 import styled from "styled-components";
-import moviesData from "../movies.json"; 
+import moviesData from "../movies.json";
 
 const Detail = () => {
   const { id } = useParams();
@@ -108,7 +108,7 @@ const CloseButton = styled.button`
   font-size: 24px;
   cursor: pointer;
   z-index: 1100;
-  
+
   &:hover {
     opacity: 0.7;
   }

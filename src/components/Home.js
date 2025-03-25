@@ -16,7 +16,7 @@ const Home = (props) => {
   const userName = useSelector(selectUserName);
 
   useEffect(() => {
-    console.log("Movies loaded:", movies); 
+    console.log("Movies loaded:", movies);
 
     let recommends = [];
     let newDisneys = [];

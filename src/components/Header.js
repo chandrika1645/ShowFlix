@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import styled from "styled-components";
 import { useDispatch, useSelector } from "react-redux";
 import { useHistory } from "react-router-dom";
-import {auth, provider} from "../components/Auth.js";
+import { auth, provider } from "../components/Auth.js";
 import {
   selectUserName,
   selectUserPhoto,
@@ -39,7 +39,7 @@ const Header = (props) => {
       signOut(auth)
         .then(() => {
           dispatch(setSignOutState());
-          history.push("/"); 
+          history.push("/");
         })
         .catch((err) => alert(err.message));
     }
