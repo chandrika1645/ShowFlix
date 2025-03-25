@@ -95,17 +95,25 @@ Watch it in action!
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/movie-streaming-platform.git
+   git clone https://github.com/chandrika1645/ShowFlix.git
    ```
-   ```sh
-   cd movie-streaming-platform
-   ```
+   
 2. **Install Dependencies:**
    ```sh
    npm install
    ```
 3. **Configure Firebase:**
    - Create a `.env` file and add your Firebase credentials.
+   ```sh
+   REACT_APP_FIREBASE_API_KEY=
+   REACT_APP_FIREBASE_AUTH_DOMAIN=
+   REACT_APP_FIREBASE_PROJECT_ID=
+   REACT_APP_FIREBASE_STORAGE_BUCKET=
+   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=
+   REACT_APP_FIREBASE_APP_ID=
+   REACT_APP_FIREBASE_MEASUREMENT_ID=
+   ```
+
 4. **Start the Application:**
    ```sh
    npm start
@@ -123,4 +131,4 @@ Watch it in action!
 
 ---
 
-**movie Streaming Platform** is a simple yet powerful proof of concept for a movie streaming application. Future improvements may include **backend integration, database support, user roles, and adaptive streaming** for an enhanced experience. 🚀
+**ShowFlix** is a simple yet powerful proof of concept for a movie streaming application. Future improvements may include **backend integration, database support, user roles, and adaptive streaming** for an enhanced experience. 🚀
