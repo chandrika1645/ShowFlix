@@ -23,6 +23,14 @@ This is a basic proof of concept, real-world movie streaming solutions require *
 
 ---
 
+**Demo**
+
+Watch it in action!  
+
+<a href="https://drive.google.com/file/d/1HKz-R_m1I9Ddrjaf7wuvdCxriyDw1bea/view?usp=sharing">
+    <img src="https://github.com/chandrika1645/ShowFlix/blob/main/public/media/demo.gif" width="700">
+</a>
+
 ## 🎬 **Screenshots**
 
 **View**
@@ -40,16 +48,6 @@ This is a basic proof of concept, real-world movie streaming solutions require *
 **Movie**
 
   <img src="https://raw.githubusercontent.com/chandrika1645/ShowFlix/main/public/media/movie-page.png" width="700">
-
-
-
-**Demo**
-
-Watch it in action!  
-
-<a href="https://drive.google.com/file/d/1HKz-R_m1I9Ddrjaf7wuvdCxriyDw1bea/view?usp=sharing">
-    <img src="https://github.com/chandrika1645/ShowFlix/blob/main/public/media/demo.gif" width="700">
-</a>
 
 
 ---
