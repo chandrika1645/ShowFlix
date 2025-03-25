@@ -23,6 +23,14 @@ This is a basic proof of concept, real-world movie streaming solutions require *
 
 ---
 
+**Demo**
+
+Watch it in action!  
+
+<a href="https://drive.google.com/file/d/1HKz-R_m1I9Ddrjaf7wuvdCxriyDw1bea/view?usp=sharing">
+    <img src="https://github.com/chandrika1645/ShowFlix/blob/main/public/media/demo.gif" width="700">
+</a>
+
 ## 🎬 **Screenshots**
 
 **View**
@@ -40,16 +48,6 @@ This is a basic proof of concept, real-world movie streaming solutions require *
 **Movie**
 
   <img src="https://raw.githubusercontent.com/chandrika1645/ShowFlix/main/public/media/movie-page.png" width="700">
-
-
-
-**Demo**
-
-Watch it in action!  
-
-<a href="https://drive.google.com/file/d/1HKz-R_m1I9Ddrjaf7wuvdCxriyDw1bea/view?usp=sharing">
-    <img src="https://github.com/chandrika1645/BlogsPost/ShowFlix/main/public/media/login-page.png" width="700">
-</a>
 
 
 ---
@@ -95,17 +93,25 @@ Watch it in action!
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/movie-streaming-platform.git
+   git clone https://github.com/chandrika1645/ShowFlix.git
    ```
-   ```sh
-   cd movie-streaming-platform
-   ```
+   
 2. **Install Dependencies:**
    ```sh
    npm install
    ```
 3. **Configure Firebase:**
    - Create a `.env` file and add your Firebase credentials.
+   ```sh
+   REACT_APP_FIREBASE_API_KEY=
+   REACT_APP_FIREBASE_AUTH_DOMAIN=
+   REACT_APP_FIREBASE_PROJECT_ID=
+   REACT_APP_FIREBASE_STORAGE_BUCKET=
+   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=
+   REACT_APP_FIREBASE_APP_ID=
+   REACT_APP_FIREBASE_MEASUREMENT_ID=
+   ```
+
 4. **Start the Application:**
    ```sh
    npm start
@@ -123,4 +129,4 @@ Watch it in action!
 
 ---
 
-**movie Streaming Platform** is a simple yet powerful proof of concept for a movie streaming application. Future improvements may include **backend integration, database support, user roles, and adaptive streaming** for an enhanced experience. 🚀
+**ShowFlix** is a simple yet powerful proof of concept for a movie streaming application. Future improvements may include **backend integration, database support, user roles, and adaptive streaming** for an enhanced experience. 🚀
